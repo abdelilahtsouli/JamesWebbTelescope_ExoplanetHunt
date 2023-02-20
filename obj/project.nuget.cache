@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CHRLmxaIaqJfXFVv30HhG7KOozEPBxWwk2wFCTDWuP97In0lwvraWjNl8vMP65K0iILI/NNs5hUJ4dRKpdErrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdel\\OneDrive\\Documenten\\GitHub\\JamesWebbTelescope_ExoplanetHunt\\JamesWebbTelescope_ExoplanetHunt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdel\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

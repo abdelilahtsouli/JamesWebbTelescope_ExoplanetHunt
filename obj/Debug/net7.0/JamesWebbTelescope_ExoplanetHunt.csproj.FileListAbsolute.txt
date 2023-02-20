@@ -1,0 +1,5 @@
+C:\Users\abdel\OneDrive\Documenten\GitHub\JamesWebbTelescope_ExoplanetHunt\obj\Debug\net7.0\JamesWebbTelescope_ExoplanetHunt.csproj.AssemblyReference.cache
+C:\Users\abdel\OneDrive\Documenten\GitHub\JamesWebbTelescope_ExoplanetHunt\obj\Debug\net7.0\JamesWebbTelescope_ExoplanetHunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\OneDrive\Documenten\GitHub\JamesWebbTelescope_ExoplanetHunt\obj\Debug\net7.0\JamesWebbTelescope_ExoplanetHunt.AssemblyInfoInputs.cache
+C:\Users\abdel\OneDrive\Documenten\GitHub\JamesWebbTelescope_ExoplanetHunt\obj\Debug\net7.0\JamesWebbTelescope_ExoplanetHunt.AssemblyInfo.cs
+C:\Users\abdel\OneDrive\Documenten\GitHub\JamesWebbTelescope_ExoplanetHunt\obj\Debug\net7.0\JamesWebbTelescope_ExoplanetHunt.csproj.CoreCompileInputs.cache
